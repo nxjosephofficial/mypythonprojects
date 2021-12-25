@@ -1,0 +1,4 @@
+phrase = ("Zurafa Akademi")
+print(phrase.lower())
+phrase = ("Zurafa Akademi")
+print(phrase.upper())
