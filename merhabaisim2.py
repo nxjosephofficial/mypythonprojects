@@ -1,0 +1,6 @@
+print("İsminiz nedir?")
+isim = input()
+print("Merhaba, " + isim)
+print("Memnun oldum.")
+cevap = input()
+print(":)")
