@@ -3,8 +3,8 @@ import tkinter as tk
 interface = tk.Tk()
 interface.title("Program")
 interface.geometry("300x200")
-a1 = "nxjoseph"
-a2 = "12345"
+a1 = "nxjoseph" # User <<<<<<<<<<<
+a2 = "12345" # Password <<<<<<<<<<
 
 user = tk.Label(text="User:")
 user.place(x=10,y=10)
